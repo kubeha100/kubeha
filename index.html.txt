@@ -1,0 +1,10 @@
+ <Html>    
+<Head>  
+Hello  
+<title>  
+this is a webpage of KubeHA  
+</title>  
+</Head>  
+<Body>   
+</Body>  
+</Html>  
