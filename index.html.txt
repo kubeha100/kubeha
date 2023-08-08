@@ -7,7 +7,6 @@ this is a webpage of KubeHA
 </Head>  
 <Body> 
 <b> [This text is Bold......] </b>  
-<I> [This text is Italic......] </I>  
-<U> [This text is Underline......] </U>    
+
 </Body>  
 </Html>  
